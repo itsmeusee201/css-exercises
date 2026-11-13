@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.one { background-color: salmon;
+}
+
+.two { font-size: 27px;
+
+}
+
+#number-2 { font-size: 35px; color:blue
+
+}
+
+#number-4 {background-color: lawngreen;
+    font-weight: 700; font-size: 24px;
+
+
+}
